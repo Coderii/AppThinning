@@ -1,0 +1,58 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "two.png",
+      "memory" : "1GB",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "memory" : "2GB"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "two@2x.png",
+      "memory" : "1GB",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "memory" : "2GB"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "memory" : "1GB"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "two@3x.png",
+      "memory" : "2GB",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "on-demand-resource-tags" : [
+      "two"
+    ]
+  }
+}
